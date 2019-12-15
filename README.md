@@ -36,7 +36,7 @@
 - [nest](https://nestjs.com/) : A progressive Node.js framework for building efficient, reliable and scalable server-side applications with **22.3K** stars on [[github](https://github.com/nestjs/nest)]
 
     <table><tr><td bgcolor=gray>
-    Nest is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+    Nest is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).<br>
 
     Under the hood, Nest makes use of Express, but also, provides compatibility with a wide range of other libraries, like e.g. Fastify, allowing for easy use of the myriad third-party plugins which are available.
     </td></tr></table>
