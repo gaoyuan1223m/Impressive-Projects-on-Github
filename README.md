@@ -19,7 +19,7 @@
     <table><tr><td bgcolor=gray>
     NgRx Store provides reactive state management for Angular apps inspired by Redux. Unify the events in your application and derive state using RxJS<br></br>
 
-    NgRx Effects gives you a framework for isolating side effects from your components by connecting observables of actions to your store<br></br>
+    NgRx Effects gives you a framework for isolating side effects from your components by connecting observables of actions to your store
 
     NgRx Schematics helps you avoid writing common boilerplate and instead focus on building your application
     </td></tr></table>
@@ -37,7 +37,7 @@
     <table><tr><td bgcolor=gray>
     Expressive HTTP middleware framework for node.js to make web applications and APIs more enjoyable to write. Koa's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream.<br></br>
 
-    Only methods that are common to nearly all HTTP servers are integrated directly into Koa's small ~570 SLOC codebase. This includes things like content negotiation, normalization of node inconsistencies, redirection, and a few others.<br></br>
+    Only methods that are common to nearly all HTTP servers are integrated directly into Koa's small ~570 SLOC codebase. This includes things like content negotiation, normalization of node inconsistencies, redirection, and a few others.
 
     Koa is not bundled with any middleware.
     </td></tr></table>
