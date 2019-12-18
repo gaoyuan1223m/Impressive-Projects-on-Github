@@ -26,6 +26,7 @@
 
 - 
 
+
 **Backend**
 
 - [express](https://expressjs.com/) : Fast, unopinionated, minimalist webframework for Node.js with **46.5K** stars on [[github](https://github.com/expressjs/express)] 
@@ -61,9 +62,23 @@
     </td></tr></table>
 
 
+
 **Testing**
 
-- 
+- [Jest](https://jestjs.io/) : A delightful JavaScript Testing Framework with a focus on simplicity with **28.8K** stars on [[github](https://github.com/facebook/jest)]
+
+    <table><tr><td bgcolor=gray>
+    👩🏻‍💻 Developer Ready: A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.<br></br>
+
+    🏃🏽 Instant Feedback: Fast, interactive watch mode only runs test files related to changed files.<br></br>
+
+    📸 Snapshot Testing: Capture snapshots of large objects to simplify testing and to analyze how they change over time.
+    </td></tr></table>
+
+- [cypress](https://www.cypress.io/) : Fast, easy and reliable testing for anything that runs in a browser with **16.9K** stars on [[github](https://github.com/cypress-io/cypress)]
+    <table><tr><td bgcolor=gray>
+    A complete end-to-end testing experience. 
+    </td></tr></table>
 
 
 ****
