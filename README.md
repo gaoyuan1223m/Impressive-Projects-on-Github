@@ -52,4 +52,18 @@
     Under the hood, Nest makes use of Express, but also, provides compatibility with a wide range of other libraries, like e.g. Fastify, allowing for easy use of the myriad third-party plugins which are available.
     </td></tr></table>
     
+- [fastify](https://www.fastify.io/) : Fast and low overhead web framework for Node.js with **12.9K** stars on [[github](https://github.com/fastify/fastify)]
+
+    <table><tr><td bgcolor=gray>
+    An efficient server implies a lower cost of the infrastructure, a better responsiveness under load and happy users. How can you efficiently handle the resources of your server, knowing that you are serving the highest number of requests as possible, without sacrificing security validations and handy development?<br></br>
+
+    Enter Fastify. Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.
+    </td></tr></table>
+
+
+**Testing**
+
 - 
+
+
+****
