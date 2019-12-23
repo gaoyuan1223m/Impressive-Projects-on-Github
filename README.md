@@ -1,4 +1,4 @@
-## Impressive Frameworks/Projects from GitHub
+## Impressive Projects on GitHub
 
 **Frontend**
 
