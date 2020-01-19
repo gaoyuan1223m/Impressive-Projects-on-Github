@@ -104,3 +104,13 @@
     </td></tr></table>
 
 -
+
+**Algorithms**
+
+- [JavaScript-Algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+    <table><tr><td bgcolor=gray>
+    📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+    </td></tr></table>
+
+- 
