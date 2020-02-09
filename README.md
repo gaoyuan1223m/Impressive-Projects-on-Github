@@ -107,10 +107,26 @@
 
 **Algorithms**
 
-- [JavaScript-Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [JavaScript-Algorithms](https://github.com/trekhleb/javascript-algorithms) : Data Structures and Algorithms with JavaScript 
 
     <table><tr><td bgcolor=gray>
     📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
     </td></tr></table>
 
 - 
+
+**Cool JavaScript**
+
+- [Anime.js](https://animejs.com/) : JavaScript animation engine with **34K** stars on [[github](https://github.com/juliangarnier/anime)]
+
+    <table><tr><td bgcolor=gray>
+    Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+    </td></tr></table>
+
+- [Howler.js](https://howlerjs.com/) : Javascript audio library for the modern web with **15.5K** stars on [[github](https://github.com/goldfire/howler.js/)]
+
+    <table><tr><td bgcolor=gray>
+    howler.js makes working with audio in JavaScript easy and reliable across all platforms.
+    </td></tr></table>
+
+- []()
