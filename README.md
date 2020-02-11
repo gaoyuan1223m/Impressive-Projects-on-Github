@@ -129,4 +129,34 @@
     howler.js makes working with audio in JavaScript easy and reliable across all platforms.
     </td></tr></table>
 
-- []()
+- [Chart.js](https://www.chartjs.org/) : Simple HTML5 Charts using the <canvas> tag with **47.2K** stars on [[github](https://github.com/chartjs/Chart.js)]
+
+    <table><tr><td bgcolor=gray>
+    Simple yet flexible JavaScript charting for designers & developers
+    </td></tr></table>
+
+- [Reveal.js](https://revealjs.com/) : The HTML Presentation Framework with **50.2K** stars on [[github](https://github.com/hakimel/reveal.js)]
+
+    <table><tr><td bgcolor=gray>
+    A framework for easily creating beautiful presentations using HTML. 
+
+    reveal.js comes with a broad range of features including nested slides, Markdown support, PDF export, speaker notes and a JavaScript API. There's also a fully featured visual editor and platform for sharing reveal.js presentations at slides.com.
+    </td></tr></table>
+
+- [Three.js](https://threejs.org/) : JavaScript 3D library with **58.4K** stars on [[github](https://github.com/mrdoob/three.js)]
+
+    <table><tr><td bgcolor=gray>
+    The aim of the project is to create an easy to use, lightweight, 3D library with a default WebGL renderer. The library also provides Canvas 2D, SVG and CSS3D renderers in the examples.
+    </td></tr></table>
+
+- [Pixi.js](https://www.pixijs.com/) : The HTML5 Creation Engine with **28.5K** stars on [[github](https://github.com/pixijs/pixi.js)]
+
+    <table><tr><td bgcolor=gray>
+    The aim of this project is to provide a fast lightweight 2D library that works across all devices. The PixiJS renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL. Also, it's fast. Really fast.
+    </td></tr></table>
+
+- [Video.js](https://videojs.com/) : open source HTML5 & Flash video player with **27.3K** stars on [[github](https://github.com/videojs/video.js)]
+
+    <table><tr><td bgcolor=gray>
+    Video.js is a web video player built from the ground up for an HTML5 world. It supports HTML5 and Flash video, as well as YouTube and Vimeo (through plugins). It supports video playback on desktops and mobile devices.
+    </td></tr></table>
